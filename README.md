@@ -1,6 +1,6 @@
 # Tidy-mac
 
-A Python utility for automatically organizing and renaming screenshot files on macOS using AI-powered content detection and parallel processing.
+A Python utility for automatically organizing and renaming screenshot files on macOS using AI-powered content detection.
 
 ## Overview
 
