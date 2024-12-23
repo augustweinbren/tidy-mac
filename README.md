@@ -95,8 +95,4 @@ Inspired by the need to manage an ever-growing collection of screenshots on my m
 
 ### Performance
 
-In the future the script will utilize concurrent processing to handle multiple screenshots simultaneously:
-Makes API requests in parallel using Python's asyncio
-Significantly faster than sequential processing
-Automatically manages concurrent API calls
-Maintains ordered output despite parallel processing
+In the future the script will utilize concurrent processing to handle multiple screenshots simultaneously using Python's asyncio
