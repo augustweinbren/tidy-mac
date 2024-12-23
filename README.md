@@ -9,7 +9,6 @@ Tidy-mac streamlines the process of managing the countless screenshots that accu
 ## Features
 
 * Automatically analyzes screenshot contents using GPT-4 Vision API
-* Processes multiple screenshots concurrently for faster results
 * Generates descriptive, filesystem-safe filenames based on image content
 * Processes all screenshots in a specified directory
 * Outputs `mv` commands for review before executing any changes
@@ -31,7 +30,7 @@ python-dotenv
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/tidy-mac.git
+git clone https://github.com/augustweinbren/tidy-mac.git
 cd tidy-mac
 ```
 
