@@ -4,7 +4,7 @@ A Python utility for automatically organizing and renaming screenshot files on m
 
 ## Overview
 
-Tidy-mac streamlines the process of managing the countless screenshots that accumulate on macOS systems. It uses OpenAI's Vision API to analyze screenshot contents in parallel and generate meaningful filenames, making it easier to find and organize your screenshots quickly and efficiently.
+Tidy-mac streamlines the process of managing the countless screenshots that accumulate on macOS systems. It uses OpenAI's Vision API to analyze screenshot contents and generate meaningful filenames, making it easier to find and organize your screenshots quickly and efficiently.
 
 ## Features
 
